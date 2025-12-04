@@ -6,4 +6,4 @@ int main() {
     cout << "Target: Dual Studium in Germany 🇩🇪" << endl;
     
     return 0;
-}
+} 
