@@ -1,34 +1,26 @@
-# Week 01
-# 📅 Week 1: First Step into University & Cyber World
+# 📅 Week 1: University Kickoff
 
 **Date Range:** September 29 - October 5, 2025
 
-## 🎯 Weekly Summary
-Since it was the first week of university, we focused on course introductions and setting up our environment. The **Introduction to Cyber Security** and **Programming** courses specifically shaped my vision for the future.
+## 🎯 Weekly Recap
+First week of uni. Mostly orientation and setting up accounts, but things are getting real. The Introduction to Cyber Security class got me pretty excited about the field.
 
-### 📚 Course Notes & Labs
-#### 1. DDO 105 - Programming I (C++)
-* **Topic:** What is an algorithm? How to draw Flowcharts.
-* **Practice:** We drew flowcharts for daily tasks (like brewing tea) and basic mathematical operations.
-* **Note:** A developer must establish the logic in their mind before writing any code.
+### 📚 Class Notes
+#### 1. Programming I (C++)
+* **Algorithms:** We talked about what an algorithm actually is.
+* **Practice:** Drew flowcharts for making tea. Sounds funny, but it helps to visualize the logic before coding.
 
-#### 2. BGT 104 - Introduction to Cyber Security
-* **Topic:** What is Cyber Security? Hacker types (White/Grey/Black Hat).
-* **Concept:** I learned about the **CIA Triad** (Confidentiality, Integrity, Availability). Security is built on this foundation.
+#### 2. Intro to Cyber Security
+* **Concept:** Learned about White/Grey/Black Hat hackers.
+* **Key Takeaway:** The **CIA Triad** (Confidentiality, Integrity, Availability). It's basically the holy grail of security.
 
-#### 3. BGT 103 - Operating Systems (Linux/Windows)
-* **Topic:** Operating System architecture. The concept of Virtualization.
-* **Lab:** I installed **VirtualBox** on my computer and tried creating a virtual machine.
+#### 3. Operating Systems
+* **Lab:** Installed **VirtualBox**. Trying to set up a virtual machine was a bit tricky but I managed to do it.
 
-#### 4. BGT 102 - Computer Networks
-* **Topic:** How the Internet works. Differences between LAN (Local Area Network) and WAN (Wide Area Network).
+#### 4. Computer Networks
+* **Topic:** LAN vs WAN. Just the basics of how the internet connects.
 
-### 💻 First Code Attempt (Pseudo-Code)
-We haven't written actual code yet, but the logic was:
+### 💻 First Steps
+No real code yet, just logic:
 ```text
-START
-  READ Number1
-  READ Number2
-  Sum = Number1 + Number2
-  PRINT Sum
-END
+START -> Read Numbers -> Add them -> PRINT -> END
