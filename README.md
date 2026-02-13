@@ -1,6 +1,6 @@
 ## 🎓 Semester Evidence (Fall 2025–2026)
 
-**Main proof pack (HR-friendly):**  
+**Main proof pack :**  
 ➡️ https://github.com/Rhotomir-sc/semester-evidence-packs
 
 What you’ll find inside:
