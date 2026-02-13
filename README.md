@@ -1,3 +1,14 @@
+## 🎓 Semester Evidence (Fall 2025–2026)
+
+**Main proof pack (HR-friendly):**  
+➡️ https://github.com/Rhotomir-sc/semester-evidence-packs
+
+What you’ll find inside:
+- 5 course evidence packs (mini-lab + report + screenshots)
+- 1 combined capstone (Mini SOC Investigation Pack)
+
+
+
 # ZDLL (Zero Day Learning Log) 🛡️
 <div align="center">
 
