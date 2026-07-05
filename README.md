@@ -1,33 +1,78 @@
-## 🎓 Semester Evidence (Fall 2025–2026)
+# ZDLL — Zero Day Learning Log 🛡️
 
-**Main proof pack :**  
-➡️ https://github.com/Rhotomir-sc/semester-evidence-packs
+This repository is my personal learning profile and cybersecurity development roadmap.
 
-What you’ll find inside:
-- 5 course evidence packs (mini-lab + report + screenshots)
-- 1 combined capstone (Mini SOC Investigation Pack)
-
-
-
-# ZDLL (Zero Day Learning Log) 🛡️
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+I use ZDLL to document my learning direction, technical foundations, and progress as a cybersecurity student.  
+It is not only a place for notes; it is a structured record of how I build my foundation step by step.
 
 ---
 
-This repo is the technical log of my Cyber Security and Software journey, documented **from Day 0**.
+## About Me
 
-## 🎯 My Goals
-- 🐧 To specialize in Linux System Administration and Kali Linux.
-- 💻 To grasp the logic of secure coding with C++.
-- 🇩🇪 To pursue a Dual Studium (Work & Study) program in Germany in the future.
+I am a cybersecurity student focused on building a strong foundation in:
 
-## 📂 Repo Structure
-- **2025/**: My Associate Degree 1st-year notes and starter projects.
+- Cloud & Identity Security
+- SOC fundamentals
+- Linux and command-line practice
+- Networking fundamentals
+- Log analysis and security monitoring
+- Hands-on lab documentation
+
+My long-term direction is **Cloud & Identity Security**, supported by Blue Team fundamentals, incident documentation, and GRC-aware security thinking.
+
+---
+
+## Purpose of This Repository
+
+ZDLL answers one main question:
+
+> Who am I as a cybersecurity student, and how am I building my learning path?
+
+This repository is designed to show:
+
+- My cybersecurity learning direction
+- My technical foundation
+- My roadmap and study structure
+- My early Linux, networking, and security notes
+- How my interests connect to Cloud & Identity Security
+
+---
+
+## How This Repository Connects to My Portfolio
+
+This repository is the starting point of my GitHub portfolio.
+
+| Portfolio Area | Repository |
+|---|---|
+| Personal learning profile and roadmap | `zdll` |
+| Academic evidence and coursework | `semester-evidence-packs` |
+| Cybersecurity fundamentals | `google-cybersecurity-m1-m8-portfolio-pack` |
+| Hands-on lab practice | `tryhackme-portfolio-pack` |
+| Combined student-level security project | `security-capstone` |
+| Mistakes, corrections, and lessons learned | `security-mistake-library` |
+
+---
+
+## Current Learning Focus
+
+I am currently focusing on:
+
+- Linux fundamentals
+- Networking basics
+- SOC Level 1 fundamentals
+- Packet analysis with Wireshark
+- Log analysis and SIEM basics
+- Incident response documentation
+- Cloud and Identity Security foundations
+
+---
+
+## Repository Structure
+
+```text
+zdll/
+├── 2025/
+├── 2026/
+├── Linux-Labs/
+├── README.md
+└── LICENSE
