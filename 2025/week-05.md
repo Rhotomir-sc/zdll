@@ -17,3 +17,4 @@ switch(op) {
     case 1: cout << "Adding..."; break;
     default: cout << "Error";
 }
+```

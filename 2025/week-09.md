@@ -15,3 +15,4 @@ Started automating stuff in Linux using Bash. It's like coding, but directly for
 ```bash
 #!/bin/bash
 echo "Hello World from Terminal"
+```

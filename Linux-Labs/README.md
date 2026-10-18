@@ -1,35 +1,12 @@
-# 🐧 Linux Mini Labs
+# Linux learning and practice
 
-This repo is a collection of my personal notes, command examples, and mini-labs documented during my Linux learning journey.
+My Linux foundations include study using Jason Cannon's “Learn Linux in 5 Days” course. No original course materials are redistributed here.
 
----
+## Existing practical documentation
+- [Linux identity and user management](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack/tree/main/portfolio-labs/01-linux-user-management)
+- [Linux permissions and least privilege](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack/tree/main/portfolio-labs/02-linux-permissions-and-least-privilege)
+- [Academic Linux baseline findings](https://github.com/Rhotomir-sc/semester-evidence-packs/blob/main/02_Isletim_Sistemleri/evidence/artifacts/lab01_findings.md)
 
-## 📘 Learning Resource
+Earlier versions of this page listed local mini-lab files that had not been added. Those are not presented as completed work. Future directory, package-management, or Bash exercises should be linked after their evidence is available.
 
-I studied the basics of Linux system administration using the following course:
-
-**"Learn Linux in 5 Days" – Jason Cannon (Udemy)** Topics covered:
-- Essential terminal commands
-- File system hierarchy
-- User & permission management
-- Package management
-- Introduction to Bash environment
-
-> **Note:** Due to copyright policies, I do not share any original course files or videos.  
-> This repository contains **only my personal notes and the mini-labs I built myself.**
-
----
-
-## 🧪 Mini Lab Contents
-
-- `labs/01-basic-commands.md`
-- `labs/02-permissions.md`
-- `labs/03-directory-structure.md`
-- `labs/04-package-management.md`
-- `labs/05-bash-intro.md`
-
----
-
-## 🎯 Goal
-
-Preparing for the **LPI Linux Essentials** certification and demonstrating the technical foundation required for **Dual Study applications (Siemens/Bosch)**.
+[Current goals](../CURRENT-FOCUS.md) · [Learning log](../README.md)

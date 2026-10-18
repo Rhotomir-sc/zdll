@@ -18,3 +18,4 @@ int number;
 cout << "Give me a number: ";
 cin >> number;
 // Now the code does something with it.
+```

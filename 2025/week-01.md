@@ -24,3 +24,4 @@ First week of uni. Mostly orientation and setting up accounts, but things are ge
 No real code yet, just logic:
 ```text
 START -> Read Numbers -> Add them -> PRINT -> END
+```

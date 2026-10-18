@@ -17,3 +17,4 @@ Finally opened the Linux terminal. Felt a bit like a hacker typing commands inst
 int age = 19;
 char grade = 'A';
 // Just testing how to store data in memory.
+```

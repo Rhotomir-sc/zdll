@@ -1,5 +1,10 @@
 # ZDLL — Zero Day Learning Log 🛡️
 
+[Current focus and completion criteria](CURRENT-FOCUS.md) · [Linux evidence links](Linux-Labs/README.md)
+
+The weekly history preserves early learning; current technical evidence is linked from the project repositories.
+
+
 This repository is my personal learning profile and cybersecurity development roadmap.
 
 I use ZDLL to document my learning direction, technical foundations, and progress as a cybersecurity student.  
@@ -46,7 +51,7 @@ This repository is the starting point of my GitHub portfolio.
 |---|---|
 | Personal learning profile and roadmap | `zdll` |
 | Academic evidence and coursework | `semester-evidence-packs` |
-| Cybersecurity fundamentals | `google-cybersecurity-m1-m8-portfolio-pack` |
+| Cybersecurity fundamentals | `google-cybersecurity-portfolio-pack` |
 | Hands-on lab practice | `tryhackme-portfolio-pack` |
 | Combined student-level security project | `security-capstone` |
 | Mistakes, corrections, and lessons learned | `security-mistake-library` |
@@ -76,3 +81,4 @@ zdll/
 ├── Linux-Labs/
 ├── README.md
 └── LICENSE
+```
