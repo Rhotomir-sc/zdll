@@ -1,84 +1,31 @@
-# ZDLL — Zero Day Learning Log 🛡️
+# ZDLL — Zero Day Learning Log
 
-[Current focus and completion criteria](CURRENT-FOCUS.md) · [Linux evidence links](Linux-Labs/README.md)
+A chronological record of my cybersecurity learning, early experiments, and changing technical priorities.
 
-The weekly history preserves early learning; current technical evidence is linked from the project repositories.
+This repository keeps the **learning history**. Completed investigations and executable projects are maintained in separate repositories so that the same evidence is not copied across the portfolio.
 
+## Start here
 
-This repository is my personal learning profile and cybersecurity development roadmap.
+- [Current focus and completion criteria](CURRENT-FOCUS.md)
+- [Linux practice and evidence links](Linux-Labs/README.md)
+- [2025 learning entries](2025/)
+- [2026 learning entries](2026/)
 
-I use ZDLL to document my learning direction, technical foundations, and progress as a cybersecurity student.  
-It is not only a place for notes; it is a structured record of how I build my foundation step by step.
+## Technical direction
 
----
+My longer-term focus is **Cloud & Identity Security**, supported by Linux fundamentals, networking, SOC analysis, and practical incident investigation.
 
-## About Me
+The log includes early command-line work, programming exercises, study notes, and reflections. Historical notes are preserved as learning records; they are not presented as production experience.
 
-I am a cybersecurity student focused on building a strong foundation in:
+## Where to see finished work
 
-- Cloud & Identity Security
-- SOC fundamentals
-- Linux and command-line practice
-- Networking fundamentals
-- Log analysis and security monitoring
-- Hands-on lab documentation
-
-My long-term direction is **Cloud & Identity Security**, supported by Blue Team fundamentals, incident documentation, and GRC-aware security thinking.
-
----
-
-## Purpose of This Repository
-
-ZDLL answers one main question:
-
-> Who am I as a cybersecurity student, and how am I building my learning path?
-
-This repository is designed to show:
-
-- My cybersecurity learning direction
-- My technical foundation
-- My roadmap and study structure
-- My early Linux, networking, and security notes
-- How my interests connect to Cloud & Identity Security
-
----
-
-## How This Repository Connects to My Portfolio
-
-This repository is the starting point of my GitHub portfolio.
-
-| Portfolio Area | Repository |
+| Evidence | Repository |
 |---|---|
-| Personal learning profile and roadmap | `zdll` |
-| Academic evidence and coursework | `semester-evidence-packs` |
-| Cybersecurity fundamentals | `google-cybersecurity-portfolio-pack` |
-| Hands-on lab practice | `tryhackme-portfolio-pack` |
-| Combined student-level security project | `security-capstone` |
-| Mistakes, corrections, and lessons learned | `security-mistake-library` |
+| Defensive hands-on labs | [TryHackMe portfolio](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack) |
+| Structured security artifacts and Python/SQL | [Google Cybersecurity portfolio](https://github.com/Rhotomir-sc/google-cybersecurity-portfolio-pack) |
+| Multi-area security assessment | [Security capstone](https://github.com/Rhotomir-sc/security-capstone) |
+| University coursework | [Academic evidence packs](https://github.com/Rhotomir-sc/semester-evidence-packs) |
 
----
+## Documentation approach
 
-## Current Learning Focus
-
-I am currently focusing on:
-
-- Linux fundamentals
-- Networking basics
-- SOC Level 1 fundamentals
-- Packet analysis with Wireshark
-- Log analysis and SIEM basics
-- Incident response documentation
-- Cloud and Identity Security foundations
-
----
-
-## Repository Structure
-
-```text
-zdll/
-├── 2025/
-├── 2026/
-├── Linux-Labs/
-├── README.md
-└── LICENSE
-```
+I distinguish **completed work**, **synthetic exercises**, and **plans**. A learning entry records what was studied; a technical claim needs its own reproducible artifact, output, or investigation evidence.
